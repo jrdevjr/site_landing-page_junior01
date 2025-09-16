@@ -8,6 +8,7 @@ export default {
     './src/components/**/*.{js,jsx,tsx,mdx}',
     './src/app/**/*.{js,jsx,tsx,mdx}',
   ],
+  theme:{
   container: {
       center: true,
       padding: '2rem',
@@ -68,6 +69,7 @@ export default {
         'action-sm': ['14px', { lineHeight: 'normal', fontWeight: '500' }],
       },
     },
+  },
 	// eslint-disable-next-line @typescript-eslint/no-require-imports
   plugins:[require('tailwindcss-animate')],
 } satisfies Config
