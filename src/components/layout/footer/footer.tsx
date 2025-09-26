@@ -1,7 +1,6 @@
-
-
-import { Logo } from '@/components/logo';
 import  Link  from "next/link";
+import { Logo } from '../../logo';
+
 
 
 

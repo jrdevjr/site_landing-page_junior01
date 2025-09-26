@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+import { Button } from "../../../../components/ui/button"
 import { ArrowRight, Clock, Store } from "lucide-react"
 
 import Image from "next/image"
@@ -59,5 +59,5 @@ export const HeroSection = () => {
             
         
         </section>
-    )
+    );
 }
