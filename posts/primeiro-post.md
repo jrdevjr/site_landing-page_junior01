@@ -4,8 +4,9 @@ description: Se você está buscando uma maneira simples e eficaz de vender seus
 date: 2024-12-20 10:20:00
 image: /assets/primeiro-post.png
 author: 
+    avatar: /customer-01.png
     name: Aspen Dokidis
-    avatar: /customer01.png
+    
 ---
 
 Se você está buscando uma maneira simples e eficaz de vender seus produtos online, o Site.Set é a solução perfeita para você. Criar uma loja virtual de sucesso nunca foi tão fácil. Com nossa plataforma intuitiva, você pode criar um site profissional para sua loja em minutos, sem precisar de conhecimentos técnicos.
